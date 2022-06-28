@@ -1,1 +1,1 @@
-# JSP-Sevlet_Study
+# JSP-Servlet_Study
